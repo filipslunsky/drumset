@@ -1,7 +1,7 @@
 body {
     width: 100%;
     height: 700px;
-    background-image: url("/BootCamp/Week4/Day5/ExerciseXP/Drumset/img/music-concert_L695JG265J.jpg");
+    background-image: url("./img/music-concert_L695JG265J.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
